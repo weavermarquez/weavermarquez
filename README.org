@@ -1,5 +1,9 @@
-### Hi there 👋
+* Hi there 👋
 
+- 🔭 I’m currently working on :: Full stack web apps with Frappe Framework
+- 🌱 I’m currently learning :: Logic Programming, Neurosymbolic programs, Emacs packages
+
+** COMMENT Inspiration
 <!--
 **weavermarquez/weavermarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
